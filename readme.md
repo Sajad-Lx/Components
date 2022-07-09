@@ -3,7 +3,7 @@
 ## How to run
    
 ```
-cd sample-app-web/Components
+cd Components
 npm install && npm run
 ```
 Add your API_KEY and API_SECRET in `tools/nav.js`, 
